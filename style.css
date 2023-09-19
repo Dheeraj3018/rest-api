@@ -1,4 +1,6 @@
 .card-header{
+    display: flex;
+    flex-wrap: wrap;
     color:rgb(255, 255, 255);
     font-size: 30px;
     text-align: center;
@@ -8,9 +10,8 @@
     
 }
 .card-body{
-    display: flex;
-    align-content: flex-start;
-
+    
+    
     color:rgb(253, 249, 249);
         text-align: center;
         padding-bottom: 20px;
