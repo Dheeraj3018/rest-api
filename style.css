@@ -9,7 +9,8 @@
 }
 .card-body{
     display: flex;
-    
+    align-content: flex-start;
+
     color:rgb(253, 249, 249);
         text-align: center;
         padding-bottom: 20px;
